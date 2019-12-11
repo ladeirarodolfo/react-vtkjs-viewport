@@ -1,6 +1,6 @@
 {
   "name": "react-vtkjs-viewport-custom",
-  "version": "0.7.0-beta.1",
+  "version": "0.7.0-beta.2",
   "description": "VTK.js image viewport component for React. Custom impl of origin source",
   "author": "OHIF Contributors",
   "license": "MIT",
