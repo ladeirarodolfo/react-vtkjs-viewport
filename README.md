@@ -1,7 +1,10 @@
-# react-vtkjs-viewport
+# react-vtkjs-viewport-custom
 
-> VTK.js image viewport component for React
+> This is a copy from original `react-vtkjs-viewport`. This changes the strategy
+> of bundling packages. I.e. it bundles vtkjs within it. VTK.js image viewport
+> component for React
 
+For more details go to:
 [![NPM](https://img.shields.io/npm/v/react-vtkjs-viewport.svg)](https://www.npmjs.com/package/react-vtkjs-viewport)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FOHIF%2Freact-vtkjs-viewport.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FOHIF%2Freact-vtkjs-viewport?ref=badge_shield)
 
@@ -9,10 +12,10 @@
 
 ```bash
 # With NPM
-npm install --save react-vtkjs-viewport
+npm install --save react-vtkjs-viewport-custom
 
 # With Yarn
-yarn add react-vtkjs-viewport
+yarn add react-vtkjs-viewport-custom
 ```
 
 ## Development
@@ -36,10 +39,3 @@ yarn run dev
 ## License
 
 MIT © [OHIF](https://github.com/OHIF)
-
-<!--
-    Links
--->
-
-
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FOHIF%2Freact-vtkjs-viewport.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FOHIF%2Freact-vtkjs-viewport?ref=badge_large)
